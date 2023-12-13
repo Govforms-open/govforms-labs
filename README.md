@@ -21,4 +21,4 @@ These views are fast changing in nature as you can imagine and are an expression
 
 The Roadmap Now is committed work, even within here, the aspirational development dates are an approximation and we will move and modify our build order to meet customer goals without notice. 
 
-Please contact us should you want to know more on helpme@govforms.co.uk and we can chat
+Please contact us should you want to know more on helpme@govforms.co.uk and we can chat.
