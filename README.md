@@ -12,7 +12,7 @@ To get an idea of when features and bugs might be released, you can view: (We do
 **We then have a Radar area, a bunch of non-prioritised recognised needs as ideas:**
 - Radar Not Prioritised, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/4 we are always adding to these
 
-**We also have sliced our aspiational features and bugs into:**
+**We also have sliced our aspiational features into:**
 - Builder + AI, like a spreadsheet of items that our customer service builders, designers and researchers will use: https://github.com/orgs/govforms/projects/1/views/5
 - Analytics + AI, like a spreadhseet of items that our service owners, finance and seniors in customers will use: https://github.com/orgs/govforms/projects/1/views/6
 - Platform + AI, like a spreadsheet of items of  our service owners additional things would like need to meet their use cases better https://github.com/orgs/govforms/projects/1/views/7
