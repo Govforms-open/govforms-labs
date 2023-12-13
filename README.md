@@ -2,7 +2,20 @@
 
 Bug reports and feature requests can be found under the Issues tab.  Please select the relevant template when creating a feature request or bug report.
 
-To get an idea of when features and bugs might be released, you can view our product roadmap here: https://github.com/orgs/govforms/projects/1/views/1
+To get an idea of when features and bugs might be released, you can view: (We don't tend to have bugs that hang around for long)
+
+**Our product Roadmap Now, an outlook over the next 90 days or so prioritised in build order as:**
+- Roadmap Now, like a calendar or Gannt chartish : https://github.com/orgs/govforms/projects/1/views/1
+- Now prioritised list, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/2
+- Now board; like status columns of development activity: https://github.com/orgs/govforms/projects/1/views/3
+
+**We then have a Radar area, a bunch of non-prioritised recognised needs as ideas:**
+- Radar Not Prioritised, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/4 we are laways adding to these
+
+**We also have sliced our aspiational features and bugs into:**
+- Builder + AI, like a spreadsheet of items that our customer service builders, designers and researchers will use: https://github.com/orgs/govforms/projects/1/views/5
+- Analytics + AI, like a spreadhseet of items that our service owners, finance and seniors in customers will use: https://github.com/orgs/govforms/projects/1/views/6
+- Platform + AI, like a spreadsheet of items of  our service owners additional things would like need to meet their use cases better https://github.com/orgs/govforms/projects/1/views/7
 
 These views are fast changing in nature as you can imagine and are an expression of ideas from our customers, potential customers, partners and end users.
 
