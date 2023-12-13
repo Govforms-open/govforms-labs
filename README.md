@@ -14,7 +14,7 @@ To get an idea of when features and bugs might be released, you can view: (We do
 
 **We also have sliced our aspiational features into:**
 - Builder + AI, like a spreadsheet of items that our customer service builders, designers and researchers will use: https://github.com/orgs/govforms/projects/1/views/5
-- Analytics + AI, like a spreadhseet of items that our service owners, finance and seniors in customers will use: https://github.com/orgs/govforms/projects/1/views/6
+- Analytics + AI, like a spreadhseet of items that our customer service owners, finance and managers will use: https://github.com/orgs/govforms/projects/1/views/6
 - Platform + AI, like a spreadsheet of items of  our service owners additional things would like need to meet their use cases better https://github.com/orgs/govforms/projects/1/views/7
 
 These views are fast changing in nature as you can imagine and are an expression of ideas from our customers, potential customers, partners and end users.
