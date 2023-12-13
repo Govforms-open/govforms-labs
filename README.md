@@ -6,8 +6,8 @@ To get an idea of when features and bugs might be released, you can view: (We do
 
 **Our product Roadmap Now, an outlook over the next 90 days or so prioritised in build order as:**
 - Roadmap Now, like a calendar or Gannt chartish : https://github.com/orgs/govforms/projects/1/views/1
-- Now prioritised list, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/2
-- Now board; like status columns of development activity: https://github.com/orgs/govforms/projects/1/views/3
+- Prioritised List Now, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/2
+- Board Now, like status columns of development activity: https://github.com/orgs/govforms/projects/1/views/3
 
 **We then have a Radar area, a bunch of non-prioritised recognised needs as ideas:**
 - Radar Not Prioritised, like a spreadsheet: https://github.com/orgs/govforms/projects/1/views/4 we are laways adding to these
